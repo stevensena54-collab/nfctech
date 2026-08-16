@@ -1,0 +1,6 @@
+{
+  "name": "CardCraft - Digital Business Cards",
+  "description": "Admin-controlled digital business card platform with customized mobile-first public cards, vCard contact saving, QR generation, and real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
